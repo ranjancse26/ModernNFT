@@ -53,7 +53,11 @@ The following code snippet generates the Modern Art with a count of 50 for examp
                 withHat: false);
 ```
 
-![image](https://user-images.githubusercontent.com/2565797/131239388-2601d16a-4ae5-4947-b6ab-b180c2d6aa94.png)
+<img src="https://user-images.githubusercontent.com/2565797/131239804-3c3fa584-1209-4497-a188-6ef5d0584e90.png" width="600" height="400">
+
+# Modern Art Traits
+
+<img src="https://user-images.githubusercontent.com/2565797/131239619-4fc82d88-cde9-4815-a932-66b5c23c40f1.png" width="350" height="350">
 
 # How to Run?
 
