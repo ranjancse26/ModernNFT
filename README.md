@@ -14,6 +14,10 @@ The following are the custom generators built as part of the library. You may ex
 9) SuperGirlGenerator
 10) VoxalManGenerator
 
+# Gitbook
+
+https://app.gitbook.com/@ranjancse/s/scalable-nft-art-project/
+
 # Goal
 
 The goal or purpose of this project is to build a highly scalable NFT Generative Art using custom generative algorithms.
@@ -48,6 +52,8 @@ The following code snippet generates the Modern Art with a count of 50 for examp
                 withSmoke: true,
                 withHat: false);
 ```
+
+![image](https://user-images.githubusercontent.com/2565797/131239388-2601d16a-4ae5-4947-b6ab-b180c2d6aa94.png)
 
 # How to Run?
 
