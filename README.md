@@ -57,10 +57,10 @@ Set as a Startup Project on "Modern.NFT.Console" Project. It's a console applica
 
 This project is inspired by various other open source work. 
 
-https://avatars.dicebear.com/
-https://www.flaticon.com/
-https://github.com/goabstract/Awesome-Design-Tools
-https://github.com/ubik23/charactercreator
+1) https://avatars.dicebear.com/
+2) https://www.flaticon.com/
+3) https://github.com/goabstract/Awesome-Design-Tools
+4) https://github.com/ubik23/charactercreator
 
 # Commercial Usage
 
