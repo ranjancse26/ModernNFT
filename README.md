@@ -38,6 +38,44 @@ The following are the tools are technologies used
 
 The Modern Art for example is generated with the help of a base SVG image created using the Inkspace an open-source vector graphics tool. The program makes use of the below subset of SVG images. Each of the traits consists of a series of artwork and the generator is responsible for building the NFT Artwork by randomly picking the traits, applying the necessary background with the genetic color-coding technology.
 
+## Genetic Color Coding Algorithm
+
+The Genetic Color Coding Algo is based on the open source code - https://github.com/yetanotherchris/SimpleGeneticAlgorithm 
+
+Below is how we generate an unique RGB color
+
+```
+public static List<string> Generate(int generationSize, int populationSize)
+        {
+            List<string> colorCollection = new List<string>();
+            World world = new World(generationSize, populationSize, 0, 0);
+            world.InitializePopulation();
+
+            foreach (var population in world.Population)
+            {
+                var splittedGenomes = population
+                    .ToString()
+                    .Replace(" ", "")
+                    .SplitBy(8)
+                    .ToList();
+
+                int R = Convert.ToInt32(
+                        splittedGenomes[0].ToString().Replace(" ", ""),
+                        2);
+                int G = Convert.ToInt32(
+                        splittedGenomes[1].ToString().Replace(" ", ""),
+                        2);
+                int B = Convert.ToInt32(
+                        splittedGenomes[2].ToString().Replace(" ", ""),
+                        2);
+
+                colorCollection.Add(ColorToHex(Color.FromArgb(R, G, B)));
+            }
+
+            return colorCollection;
+        }
+ ```
+
 # How to generate the Modern NFT Art?
 
 You will be seeing how to generate Modern NFT Artwork based on the concept of Generators.
