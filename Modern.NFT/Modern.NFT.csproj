@@ -21,4 +21,3220 @@
       <HintPath>lib\SimpleGeneticAlgorithm.dll</HintPath>
     </Reference>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Generator\ArtBlocks\Design1\Paths.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\armband_bandage_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\armband_bandage_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\armband_egyptian_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\armband_egyptian_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\belt_bullet.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\belt_satchel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\belt_utility.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\blouse_cherry_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\blouse_cherry_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_arm_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_arm_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_foot_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_foot_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_forearm_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_forearm_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_hand_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_hand_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_leg_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_leg_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\body_torso_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_band_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_band_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_band_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_band_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_egyptian_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_egyptian_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_ornamental_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_ornamental_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_ornamental_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_ornamental_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_perl_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_perl_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_perl_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_perl_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_rings_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_rings_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_wonder_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\bracelet_wonder_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\cloak_dracula_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\cloak_dracula_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_biker_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_biker_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_lab_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_lab_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_winter_furcollar_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_winter_furcollar_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_winter_furcollar_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_winter_tubecollar_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\coat_winter_tubecollar_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\collar_egyptian.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\collar_leather.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\collar_metal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_accolade.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_bobafett.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_casual.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_cheerleader.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_chinatown.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_corset.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_german_expression.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_japanese_pleat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_parisian_fall.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_suit.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_waitress.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_zig_zag.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\dress_zip.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\holster_revolver_chest.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\holster_revolver_hip.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\holster_revolver_thigh.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\holster_revolver_thigh_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\holster_revolver_thigh_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\kneepads_skate.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\layers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\leggings_fishnet.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\leggings_regular.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\leggings_striped.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\leggings_torn.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\nails_short_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\nails_short_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_dogtags.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_heart.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_perl.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_princess.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_squared-circle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\necklace_stethoscope.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_cargo.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_jeans.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_jeans_bellbottoms.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_jeans_rolled.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_jeans_torn.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_yoga.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\pants_yoga_torn.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_chest_warmer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_drape.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_fake_knot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_four_in_hand.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_once_around.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_overhand.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_parisian_knot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_reverse_drape.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_reverse_drape_cross.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_reverse_drape_tuck.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\scarf_twice_around.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shirt_sweat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shirt_tshirt.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_cowboy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_flip-flops_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_flip-flops_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_highheels.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_hightops.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_moon.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_plateforms.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoes_sandals_roman.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shorts_bikini.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shorts_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoulderpads_artillery.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoulderpads_general.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoulderpads_plated.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\shoulderpads_spikes.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\skirt_a-line.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\skirt_draped.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\skirt_school_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\suit_onepiece.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\suit_wetsuit_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\suit_wetsuit_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\top_asymetric.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\top_loop.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\top_tank.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\top_tube.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\underwear_plain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\vest_yellow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\wings_angel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\wings_devil.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\wings_fairy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_at_ease\wings_skeleton.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\armband_bandage_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\armband_bandage_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\armband_egyptian_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\armband_egyptian_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\belt_bullet.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\belt_satchel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\belt_utility.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\blouse_cherry_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\blouse_cherry_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_left_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_left_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_left_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_right_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_right_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_arm_right_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_foot_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_foot_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_left_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_left_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_left_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_right_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_right_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_forearm_right_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_hand_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_hand_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_left_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_left_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_left_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_left_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_right_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_right_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_right_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_leg_right_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_torso_android-00.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_torso_athletic.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_torso_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\body_torso_veiny.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_band_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_band_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_band_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_band_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_egyptian_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_egyptian_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_ornamental_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_ornamental_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_ornamental_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_ornamental_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_perl_left_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_perl_left_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_perl_right_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_perl_right_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_rings.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_rings_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_rings_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_wonder_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bracelet_wonder_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bra_bow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bra_grid.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\bra_sports.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\button_heart.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\button_peace.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\button_smile.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\cloak_dracula_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\cloak_dracula_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_biker_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_biker_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_lab_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_lab_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_lab_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_furcollar_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_furcollar_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_furcollar_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_tubecollar_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_tubecollar_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\coat_winter_tubecollar_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\collar_egyptian.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\collar_leather.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\collar_metal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_accolade.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_bobafett.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_casual.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_cheerleader.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_chinatown.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_corset.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_german_expression.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_japanese_pleat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_parisian_fall.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_suit.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_waitress.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_zig_zag.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\dress_zip.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\gloves_silk_fingerless_striped_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\gloves_silk_fingerless_striped_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\holster_revolver_chest.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\holster_revolver_hip.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\holster_revolver_thigh_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\holster_revolver_thigh_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\kneepads_skate.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\layers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\leggings_fishnet.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\leggings_regular.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\leggings_striped.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\leggings_torn.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_claws_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_claws_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_long_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_long_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_short_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\nails_short_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_dogtags.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_heart.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_perl.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_princess.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_squared-circle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_stethoscope.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\necklace_wooden.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_cargo.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_jeans.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_jeans_bellbottoms.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_jeans_rolled.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_jeans_torn.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_yoga.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_yoga_torn_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_yoga_torn_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pants_yoga_torn_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_canine.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_chicken.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_doge.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_feline.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_fox.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_gerbil.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_parrot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_rat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_raven.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_siamese_cat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\pet_vulture.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_chest_warmer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_drape.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_fake_knot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_four_in_hand.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_once_around.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_overhand.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_parisian_knot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_reverse_drape.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_reverse_drape_cross.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_reverse_drape_tuck.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\scarf_twice_around.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shirt_collar.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shirt_sleeveless_sfl.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shirt_sweat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shirt_tshirt_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shirt_tshirt_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_cowboy_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_cowboy_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_flip-flops_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_flip-flops_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_highheels.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_hightops.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_moon.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_plateforms.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoes_sandals_roman.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shorts_bikini.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shorts_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_artillery.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_general.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_plated_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_plated_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_spikes_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\shoulderpads_spikes_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_a-line.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_draped.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_highfashion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_school.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_school_long.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_school_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\skirt_tube.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\suit_asymetric.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\suit_bands.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\suit_dress.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\suit_onepiece.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\suit_wetsuit.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tatoo_archeopteryx_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tatoo_chaos_chest.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tatoo_chaos_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tatoo_chaos_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tatoo_tribal_face.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tie_bow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\tie_neck.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\top_asymetric.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\top_loop.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\top_tank.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\top_tube_v.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\underwear_boyshorts.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\underwear_plain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\underwear_string.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\underwear_tanga.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\underwear_thong.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_al-amira_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_al-amira_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_hijab.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_khimar_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_khimar_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_niqab.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_shayla_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\veil_shayla_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\vest_athlete.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\vest_yellow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\wings_angel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\wings_devil.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\wings_fairy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\body_front_hand-on-hip\wings_skeleton.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_diamond.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_heart.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_oblong.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_oval.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_round.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_square.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\body_head_triangle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_laughter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\brows_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_bells.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_crystal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_death_drop.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_double-drop.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_gold_rings.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_gold_ring_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_gold_ring_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_lightning.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_perl.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earings_triangle_mobile.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earpiece_microphone.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earpiece_neurolink.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\earpiece_scouter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_elven.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_outstretched.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_plugged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_pointed.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\ears_unplugged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyeballs.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyeballs_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyepatch_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyepatch_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_laughter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\eyes_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\freckles_medium.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_alien.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_designer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_fpv.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_goggles.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_google.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_hipster.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_kurt.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_monolens.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_neon.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_oakley.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_rayban.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_round.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_visor.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\glasses_wayrafer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_afro.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_bangs.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_bell_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_bell_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_down_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_down_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_down_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_emo.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_flowing_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_flowing_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_manga_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_manga_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_mohawk.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_odango.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_pigtails_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_pigtails_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_ponytail.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_punky.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_short_slick.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_spider.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_starlet_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_starlet_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hair_wreckingball.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_baseball.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_beach_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_beach_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_berret_badge.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_bucket.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_cap.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_chinese_farmer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_country_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_country_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_cowboy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_crown_gold_spheres.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_football.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_fox-ears.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_helmet_vietnam_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_helmet_vietnam_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_magritte.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_motorcycle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_police.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_scumbag.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_strainer_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_strainer_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_tiara.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_top.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_tuque.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_waitress.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\hat_xmas.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\headband_jogging.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\headband_medium_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\headband_medium_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\headband_tied.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\horns_devil.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_laughter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\lashes_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\layers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_blush.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_clawmarks.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_dot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_frekles.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_gothic_eyeliner.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_stripe.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\makeup_warpaint.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_arrow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_cat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_guy_fawkes.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_horse.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_hospital.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_jason.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_jason1.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_panda.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_phantom.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_pretty_horse.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mask_stormtrooper.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_laughter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\mouth_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_claws_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_claws_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_long_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_long_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_short_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nails_short_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_default_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_default_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_pointed_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_pointed_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_roman_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_roman_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_strong_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_strong_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_syrid_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\nose_syrid_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\smoke_blunt.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\smoke_cigar.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\smoke_cigarette.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\smoke_filter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\smoke_pipe_subgenius.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_laughter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\female\head_front_default\sockets_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_diamond.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_heart.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_oblong.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_oval.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_round.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_square.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\body_head_triangle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_amazement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_betrayal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_caged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_cruel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_desperation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_devastation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_disappointment.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_eeww.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_horror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_laughing.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_omg.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_outrage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_pain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_spooked.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_ten.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\brows_wtf.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earings_gold_rings.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earings_gold_ring_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earings_gold_ring_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earpiece_microphone.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earpiece_neurolink.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\earpiece_scouter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_elven.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_outstretched.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_plugged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_pointed.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\ears_unplugged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyeballs_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyepatch_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyepatch_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_amazement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_betrayal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_caged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_cruel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_desperation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_devastation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_disappointment.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_eeww.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_horror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_laughing.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_omg.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_outrage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_pain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_spooked.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_ten.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\eyes_wtf.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_boxed_default_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_ducktail.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_guru.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_intelectual.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_rap.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_beard_raw.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_chinpuff.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_goatee.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_goatee_raw.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_moustache.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_moustache_dali.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_moustache_thick.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_muttonchops.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_muttonchops_friendly.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_soulpatch.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\facialhair_winnfield.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\freckles_medium.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_alien.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_designer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_fpv.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_goggles.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_google.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_hipster.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_kurt.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_monolens.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_neon.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_oakley.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_rayban.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_round.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_visor.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\glasses_wayrafer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_afro.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_balding.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_balding_crazy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_balding_crown.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_bangs.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_buzzcut.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_crewcut.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_down_1_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_down_2_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_down_3_of_3.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_emo.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_faux_hawk.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_fringes.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_gelled.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_manga_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_manga_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_mohawk.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_odango.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_pigtails_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_pigtails_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_ponytail.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_pushed_back_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_pushed_back_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_quiff.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_short.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_side_parted.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_spider.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_undercut.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_wavy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_wild.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hair_wreckingball.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_baseball.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_berret.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_berret_badge.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_bucket.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_cap.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_chinese_farmer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_country_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_country_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_cowboy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_crown_gold_spheres.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_fedora_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_fedora_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_football.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_fox-ears.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_helmet_vietnam_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_helmet_vietnam_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_jester.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_magritte.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_motorcycle.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_police.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_scumbag.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_strainer_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_strainer_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_top.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_tuque.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_turban_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_turban_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\hat_xmas.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\headband_jogging.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\headband_medium_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\headband_medium_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\headband_tied.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\horns_devil.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\horns_large.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_amazement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_betrayal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_caged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_cruel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_desperation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_devastation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_disappointment.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_eeww.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_horror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_laughing.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_omg.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_outrage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_pain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_spooked.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_ten.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\lashes_wtf.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\layers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_arrow.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_cat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_guy_fawkes.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_horse.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_hospital.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_jason.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_phantom.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_robin.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mask_stormtrooper.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_amazement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_betrayal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_caged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_cruel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_desperation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_devastated.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_devastation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_disappointment.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_eeww.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_horror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_laughing.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_omg.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_outrage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_pain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_spooked.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_ten.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\mouth_wtf.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_default.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_default_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_default_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_pointed.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_pointed_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_pointed_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_roman.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_roman_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_roman_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_strong.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_strong_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_strong_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_syrid.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_syrid_1_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\nose_syrid_2_of_2.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\scar_horizontal_nose.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\scar_vertical_left.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\scar_vertical_right.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\smoke_blunt.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\smoke_cigar.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\smoke_cigarette.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\smoke_filter.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\smoke_pipe_subgenius.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_alertness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_amazement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_amusement.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_anger.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_anxiety.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_aversion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_betrayal.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_caged.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_concern.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_cruel.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_dejection.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_desperation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_devastation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_disappointment.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_disdain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_disgust.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_eeww.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_fear.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_grief.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_horror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_indignation.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_joy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_laughing.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_melancholy.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_neutral.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_omg.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_outrage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_pain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_rage.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_revulsion.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_sadness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_satisfaction.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_shock.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_spooked.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_sterness.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_surprise.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_ten.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_terror.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_wonder.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\sockets_wtf.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\warpaint_clawmarks.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\warpaint_football.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\male\head_front_default\warpaint_stripe.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Avatar\layer\svgBase.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye14.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye7.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye8.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Eyes\eye9.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Faces\Face6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth7.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth8.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Mouth\Mouth9.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Sides\Side7.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Texture\Texture1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Texture\Texture2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Texture\Texture3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Texture\Texture4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Texture\Texture5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top7.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top8.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Bots\Top\Top9.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\Gridy\Shapes.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\IndoBits\IndoBitsLayered.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Chain.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Dot.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Glass.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Hat.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Headphone.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Layer.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Mask.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Mustashe.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\ModernArt\Smoke.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Eyes.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Face.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Hair.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\LeftEye.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\LeftRight.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Lips.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Neck.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\Overall.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\SuperGirl\RightEye.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Eight.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Five.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Four.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\One.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Seven.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Six.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Three.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Generator\VoxalMan\Two.svg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
